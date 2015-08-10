@@ -21,6 +21,7 @@ namespace HelloWorld2
         {
             MessageBox.Show("Hello Git World 2");
             MessageBox.Show("Bye!");
+            MessageBox.Show(";)");
         }
     }
 }
