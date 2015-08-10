@@ -20,6 +20,7 @@ namespace HelloWorld2
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hello Git World 2");
+            MessageBox.Show("Bye!");
         }
     }
 }
